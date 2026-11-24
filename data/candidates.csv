@@ -1,0 +1,22 @@
+id,candidate,role,stage,applied_on,closed_on,source
+C001,Ana Ribeiro,Junior Data Analyst,Hired,2026-10-03,2026-11-04,LinkedIn
+C002,Tiago Matos,Junior Data Analyst,Rejected,2026-10-02,2026-10-07,ITJobs.pt
+C003,Inês Carvalho,Junior Data Analyst,Offer,2026-10-06,,Referral
+C004,Rui Ferreira,Junior Data Analyst,Interview,2026-10-21,,LinkedIn
+C005,Sofia Lopes,Junior Data Analyst,Screening,2026-11-10,,Landing.jobs
+C006,Marta Sousa,Administrative Assistant,Hired,2026-09-29,2026-10-17,Net-Empregos
+C007,João Pinto,Administrative Assistant,Rejected,2026-10-06,2026-10-20,Indeed
+C008,Beatriz Costa,Administrative Assistant,Interview,2026-10-28,,LinkedIn
+C009,Pedro Almeida,Administrative Assistant,New,2026-11-18,,Indeed
+C010,Carla Mendes,Junior Data Analyst,New,2026-11-20,,Referral
+C011,Diogo Nunes,Junior Data Analyst,Rejected,2026-10-04,2026-10-05,LinkedIn
+C012,Mariana Teixeira,Junior Data Analyst,Rejected,2026-10-09,2026-10-30,ITJobs.pt
+C013,Hugo Martins,Administrative Assistant,Hired,2026-09-22,2026-11-08,Indeed
+C014,Rita Gomes,Administrative Assistant,Rejected,2026-10-01,2026-10-02,Indeed
+C015,Filipe Rocha,Administrative Assistant,Rejected,2026-10-12,2026-10-13,Net-Empregos
+C016,Cláudia Pires,Junior Data Analyst,Screening,2026-11-16,,LinkedIn
+C017,André Silva,Administrative Assistant,Rejected,2026-10-15,2026-11-03,LinkedIn
+C018,Joana Moreira,Junior Data Analyst,Interview,2026-11-02,,Referral
+C019,Nuno Barbosa,Administrative Assistant,New,2026-11-21,,
+C020,Vera Antunes,Junior Data Analyst,Rejected,2026-10-19,2026-10-20,Landing.jobs
+C021,Luís Correia,Administrative Assistant,Screening,2026-11-19,,Indeed

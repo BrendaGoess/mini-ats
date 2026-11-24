@@ -1,0 +1,13 @@
+id,date,time,type,interviewer,rating,next_step
+C001,2026-10-13,10:00,Video,Hiring manager,4,Second interview
+C001,2026-10-20,14:30,In person,Head of Data,5,Make offer
+C012,2026-10-22,17:00,Video,Hiring manager,4,Reject
+C003,2026-10-23,11:15,Video,Hiring manager,3,Second interview
+C003,2026-11-05,15:00,In person,Head of Data,4,Make offer
+C006,2026-10-08,09:30,In person,Office manager,5,Make offer
+C013,2026-10-09,16:00,Phone,Office manager,4,Make offer
+C007,2026-10-16,12:00,Phone,Office manager,2,Reject
+C017,2026-10-27,10:00,In person,Office manager,4,Second interview
+C018,2026-11-12,18:00,Video,Hiring manager,4,Second interview
+C004,2026-11-25,10:30,Video,Hiring manager,,To decide
+C008,2026-11-27,11:00,In person,Office manager,,To decide
